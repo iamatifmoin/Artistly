@@ -1,0 +1,52 @@
+{
+  "categories": [
+    "Singer",
+    "Dancer",
+    "DJ",
+    "Speaker",
+    "Comedian",
+    "Musician",
+    "Actor",
+    "Playback Artist",
+    "Classical Performer",
+    "Music Producer",
+    "Instrumentalist",
+    "Theatre Artist"
+  ],
+  "languages": [
+    "Hindi",
+    "English",
+    "Bengali",
+    "Tamil",
+    "Telugu",
+    "Marathi",
+    "Punjabi",
+    "Gujarati",
+    "Malayalam",
+    "Kannada",
+    "Urdu",
+    "Assamese"
+  ],
+  "feeRanges": [
+    "₹10,000 - ₹25,000",
+    "₹25,000 - ₹50,000",
+    "₹50,000 - ₹1,00,000",
+    "₹1,00,000 - ₹2,50,000",
+    "₹2,50,000 - ₹5,00,000",
+    "₹5,00,000+"
+  ],
+  "locations": [
+    "Mumbai, Maharashtra",
+    "Delhi, Delhi",
+    "Bangalore, Karnataka",
+    "Chennai, Tamil Nadu",
+    "Kolkata, West Bengal",
+    "Pune, Maharashtra",
+    "Hyderabad, Telangana",
+    "Ahmedabad, Gujarat",
+    "Jaipur, Rajasthan",
+    "Lucknow, Uttar Pradesh",
+    "Kochi, Kerala",
+    "Chandigarh, Punjab"
+  ]
+}

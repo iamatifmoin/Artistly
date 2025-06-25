@@ -1,0 +1,30 @@
+[
+  {
+    "id": "singer",
+    "name": "Singers",
+    "description": "Vocal artists specializing in various music genres",
+    "icon": "Mic",
+    "color": "from-purple-500 to-indigo-500"
+  },
+  {
+    "id": "dancer",
+    "name": "Dancers",
+    "description": "Classical and contemporary dance performers",
+    "icon": "Zap",
+    "color": "from-purple-500 to-indigo-500"
+  },
+  {
+    "id": "speaker",
+    "name": "Speakers",
+    "description": "Motivational and corporate speakers",
+    "icon": "MessageSquare",
+    "color": "from-purple-500 to-indigo-500"
+  },
+  {
+    "id": "dj",
+    "name": "DJs",
+    "description": "Music producers and disc jockeys",
+    "icon": "Music",
+    "color": "from-purple-500 to-indigo-500"
+  }
+]
